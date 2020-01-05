@@ -2,4 +2,8 @@ a
 b
 c
 d
+<<<<<<< HEAD
 dir/
+=======
+dir
+>>>>>>> feature
